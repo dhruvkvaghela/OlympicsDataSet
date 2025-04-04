@@ -1,21 +1,21 @@
 [
     {
-        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/blob/main/athletes.csv",
+        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/main/athletes.csv",
         "p_folder": "athletes",
         "p_file": "athletes.parquet"
     },
     {
-        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/blob/main/coaches.csv",
+        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/main/coaches.csv",
         "p_folder": "coaches",
         "p_file": "coaches.parquet"
     },
     {
-        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/blob/main/events.csv",
+        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/main/events.csv",
         "p_folder": "events",
         "p_file": "events.parquet"
     },
     {
-        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/blob/main/nocs.csv",
+        "p_rel_url": "dhruvkvaghela/OlympicsDataSet/main/nocs.csv",
         "p_folder": "nocs",
         "p_file": "nocs.parquet"
     }
